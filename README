@@ -1,0 +1,3 @@
+离线打包工具
+
+binarycreator --offline-only -c config/config.xml -p packages installer

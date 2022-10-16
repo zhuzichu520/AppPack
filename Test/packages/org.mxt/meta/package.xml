@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+<DisplayName>选择选择器</DisplayName>
+<Description>测试切换在文件选择器切换输入法是否会卡死.</Description>
+<Version>1.0.0-1</Version>
+<ReleaseDate>2022-10-16</ReleaseDate>
+<Default>true</Default>
+<Script>installscript.qs</Script>
+<Licenses>
+    <License name="Beer Public License Agreement" file="license.txt" />
+</Licenses>
+<UserInterfaces>
+<UserInterface>RegisterForm.ui</UserInterface>
+<UserInterface>OpenExeForm.ui</UserInterface>
+</UserInterfaces>
+</Package>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>输入法测试</Name>
+    <Version>1.0.0</Version>
+    <Title>输入法测试</Title>
+    <Publisher>Qt-Project</Publisher>
+    <StartMenuDir>Test Input</StartMenuDir>
+    <TargetDir>@ApplicationsDirX86@/mxt/test</TargetDir>
+</Installer>
